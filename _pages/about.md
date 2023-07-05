@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xu Li's Homepage"
+title: "Welcome to Xu Li's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
