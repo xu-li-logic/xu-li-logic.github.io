@@ -1,0 +1,16 @@
+@InProceedings{10.1007/978-3-030-44638-3_8,
+author="Li, Xu
+and W{\'a}ng, Y{\`i} N.",
+editor="Dastani, Mehdi
+and Dong, Huimin
+and van der Torre, Leon",
+title="A Logic of Knowledge and Belief Based on Abstract Arguments",
+booktitle="Logic and Argumentation",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="116--130",
+abstract="We introduce a logic of knowledge and belief in a framework in which belief has a standard KD45 characterization and knowledge undergoes the classical tripartite analysis that knowledge is justified true belief, which has a natural link to the studies of logics of evidence and justification. The characterization of knowledge is based on a flexible model that avoids unwanted properties concerned with the problem of logical omniscience. We axiomatize the logic, prove its soundness and completeness, and then extend the logic to a multi-agent setting. We also compare our framework with existing logics of knowledge and belief.",
+isbn="978-3-030-44638-3"
+}
+
