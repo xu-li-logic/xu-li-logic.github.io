@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version [here](/files/CV250624.pdf), updated on 25/06/24.
+{::comment} PDF version [here](/files/CV250624.pdf), updated on 25/06/24.{:/comment}
 
 Education
 ======
